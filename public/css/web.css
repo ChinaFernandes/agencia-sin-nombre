@@ -1,0 +1,37 @@
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+.barra{
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 4%;
+    color:black ;
+    text-align: center;
+    font-size: x-large;
+    background-color: rgba(0, 0, 0, 0.11);
+}
+
+.uk-card uk-card-default uk-card-body{
+    border-radius: 2%;
+    
+}
+
+.titulo{
+    margin-top: 5%;
+}
+
+
+.card-tipos-webs{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.uk-flex{
+    justify-content: space-evenly;
+}
