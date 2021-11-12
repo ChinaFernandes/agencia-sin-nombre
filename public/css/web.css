@@ -24,6 +24,10 @@
 
 .titulo{
     margin-top: 5%;
+    font-size: 70px;
+    margin-bottom: 9%;
+    background-color: rgba(0, 0, 0, 0.473);
+    text-align: center;
 }
 
 
